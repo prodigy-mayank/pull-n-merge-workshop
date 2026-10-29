@@ -1,5 +1,5 @@
 // Command-practice task: change this title, save, then inspect Git's view of the edit.
-const eventTitle = "Campus Tech Meetup";
+const eventTitle = "Campus Workshop Meetup for Git";
 
 document.querySelector("#event-title").textContent = eventTitle;
 
