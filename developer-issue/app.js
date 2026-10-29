@@ -6,3 +6,5 @@ joinButton.addEventListener('click', () => {
   attendeeCount = window.incrementCount(attendeeCount);
   countElement.textContent = String(attendeeCount);
 });
+standee
+
